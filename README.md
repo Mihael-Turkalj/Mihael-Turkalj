@@ -1,8 +1,10 @@
 ### Hi, I'm Mihael
 
-I design and build websites people remember: scroll-driven stories, interactive products, motion design and games. Each project below was made with a different design workflow, so together they double as a comparison of what each approach produces.
+I run paid media and build the measurement underneath it: Google Ads, DV360, GA4, Consent Mode and Looker Studio, for brands across the EU.
 
-**All my work:** [mihaelturkalj.com](https://mihaelturkalj.com)
+This is my web lab: interactive sites, each built with a different AI-assisted design workflow, from scroll-driven video to a cooking game that teaches ad metrics. Together they double as a comparison of what each approach produces.
+
+**Work with me:** [mihaelturkalj.com](https://mihaelturkalj.com)
 
 <table>
   <tr>
