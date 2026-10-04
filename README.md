@@ -2,7 +2,7 @@
 
 I run paid media and build the measurement underneath it: Google Ads, DV360, GA4, Consent Mode and Looker Studio, for brands across the EU.
 
-This is my web lab: interactive sites, each built with a different AI-assisted design workflow, from scroll-driven video to a cooking game that teaches ad metrics. Together they double as a comparison of what each approach produces.
+This is my web lab: interactive sites, used to test different styles and approaches to creating web-sites (and sometimes just to mess around 😊)
 
 **Work with me:** [mihaelturkalj.com](https://mihaelturkalj.com)
 
